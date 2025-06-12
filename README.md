@@ -14,9 +14,3 @@
 ```bash
 python src/fizzbuzz.py
 ```
-
-## テストの実行
-
-```bash
-python -m unittest tests/test_fizzbuzz.py
-```
