@@ -20,14 +20,3 @@ python src/fizzbuzz.py
 ```bash
 python -m unittest tests/test_fizzbuzz.py
 ```
-
-## プロジェクト構成
-
-```
-.
-├── README.md
-├── src/
-│   └── fizzbuzz.py
-└── tests/
-    └── test_fizzbuzz.py
-```
